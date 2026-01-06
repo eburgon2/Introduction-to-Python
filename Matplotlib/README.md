@@ -1,0 +1,16 @@
+# Introduction
+This tutorial covers the matplotlib library, with a focus on enhancing learners data communication skills.
+The tutorial has been adapted from [matplolib/AnatomyofMatplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib) for CVEEN 6920 HydroInformatics.
+
+
+The tutorial builds on the Numpy and Pandas modules, and covers the following topics:
+
+* [Part 1: Overview of Matplotlib](Part1-Figures_Subplots_and_layouts.ipynb)
+* [Part 2: Plotting Methods](Part2-Plotting_Methods_Overview.ipynb)
+* [Part 3: How To Speak MPL](Part3-HowToSpeakMPL.ipynb)
+* [Part 4: Limits, Legends, and Layouts](Part4-Limits_Legends_and_Layouts.ipynb)
+* [Part 5: Artists](Part5-Artists.ipynb)
+* [Part 6: mpl_toolkits](Part6-mpl_toolkits.ipynb)
+
+
+
