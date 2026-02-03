@@ -28,7 +28,7 @@ In some cases:
 ## Lets get started!
 
 This repositories consists of three core Python topics:
-* [Introduction to Python](./Intro2Python/)
+* [IntroductiIon to Python](./Intro2Python/)
 * [NumPy](./NumPy/)
 * [Pandas](./Pandas/)
 
